@@ -1,0 +1,155 @@
+{
+  "offices": [
+    {
+      "address": "Fakulti Kejuruteraan, Universiti Putra Malaysia, 43400 Serdang, Selangor",
+      "id": "engineering",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Faculty_of_Engineering%2C_UPM.jpg",
+      "lat": 3.0064,
+      "lng": 101.7199,
+      "name": "Faculty of Engineering",
+      "phone": "+603-9769 6262",
+      "region": "upm"
+    },
+    {
+      "address": "Fakulti Sains Komputer dan Teknologi Maklumat, Universiti Putra Malaysia, 43400 Serdang, Selangor",
+      "id": "fsktm",
+      "image": "https://sgs.upm.edu.my/summer-uploads/20240815105701blobid0.jpg",
+      "lat": 2.999833202985079, 
+      "lng": 101.71049883633545,
+      "name": "Faculty of Computer Science & Information Technology",
+      "phone": "+603-9769 1777",
+      "region": "upm"
+    },
+    {
+      "address": "Fakulti Sains, Universiti Putra Malaysia, 43400 Serdang, Selangor",
+      "id": "science",
+      "image": "https://science.upm.edu.my/upload/imej/kandungan/mobile/20230208083436Maklumat_Korporat.jpg",
+      "lat": 3.0007,
+      "lng": 101.7051,
+      "name": "Faculty of Science",
+      "phone": "+603-9769 6601",
+      "region": "upm"
+    },
+    {
+      "address": "Fakulti Design and Architecture, Universiti Putra Malaysia, 43400 Serdang, Selangor",
+      "id": "economics",
+      "image": "https://sgs.upm.edu.my/summer-uploads/20240815113203blobid0.jpg",
+      "lat":  3.0027308,
+      "lng": 101.7220044,
+      "name": "Faculty of Design and Architecture",
+      "phone": "+603-9769 7599",
+      "region": "upm"
+    },
+    {
+      "address": "Fakulti Pertanian, Universiti Putra Malaysia, 43400 Serdang, Selangor",
+      "id": "agriculture",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fakulti_Pertanian_UPM.JPG/1200px-Fakulti_Pertanian_UPM.JPG",
+      "lat": 2.9834,
+      "lng": 101.7341,
+      "name": "Faculty of Agriculture",
+      "phone": "+603-9769 4801",
+      "region": "upm"
+    },
+    {
+      "address": "Faculty of Humanities, Management & Science, UPM, 43400 Serdang, Selangor",
+      "id": "humanities",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Faculty_of_Social_Sciences_and_Humanities.jpg/1024px-Faculty_of_Social_Sciences_and_Humanities.jpg",
+      "lat": 2.9997695618957025, 
+      "lng": 101.70618955716617,
+      "name": "Faculty of Humanities, Management & Science",
+      "phone": "+603-9769 7599",
+      "region": "upm"
+    },
+    {
+      "address": "Center of Foundation Studies for Agricultural Science, UPM, 43400 Serdang, Selangor",
+      "id": "foundation",
+      "image": "https://asasi.upm.edu.my/summer-uploads/20170810120602blobid0.jpg",
+      "lat": 3.0038987,
+      "lng": 101.7036045,
+      "name": "Center of Foundation Studies for Agricultural Science",
+      "phone": "+603-9769 7000",
+      "region": "upm"
+    },
+    {
+      "address": "Faculty of Biotechnology & Biomolecular Sciences, UPM, 43400 Serdang, Selangor",
+      "id": "biotech",
+      "image": "https://sgs.upm.edu.my/summer-uploads/20240819100035blobid0.jpg",
+      "lat": 3.0048284632884097,
+      "lng": 101.70634452970036,
+      "name": "Faculty of Biotechnology & Biomolecular Sciences",
+      "phone": "+603-9769 6601",
+      "region": "upm"
+    },
+    {
+      "address": "Faculty of Educational Studies, UPM, 43400 Serdang, Selangor",
+      "id": "education",
+      "image": "https://sgs.upm.edu.my/summer-uploads/20241017124221blobid0.jpg",
+      "lat": 3.002862251002071, 
+      "lng": 101.71177485684763,
+      "name": "Faculty of Educational Studies",
+      "phone": "+603-9769 8210",
+      "region": "upm"
+    },
+    {
+      "address": "Faculty of Food Science and Technology, UPM, 43400 Serdang, Selangor",
+      "id": "food-science",
+      "image": "https://sgs.upm.edu.my/summer-uploads/20240815145946blobid0.jpg",
+      "lat": 3.004528,
+      "lng": 101.707395,
+      "name": "Faculty of Food Science and Technology",
+      "phone": "+603-9769 4000",
+      "region": "upm"
+    },
+    {
+      "address": "Faculty of Forestry & Environment, UPM, 43400 Serdang, Selangor",
+      "id": "forestry",
+      "image": "https://sgs.upm.edu.my/summer-uploads/20240815144654blobid0.jpg",
+      "lat": 3.002768080145444, 
+      "lng": 101.7076770851146,
+      "name": "Faculty of Forestry & Environment",
+      "phone": "+603-9769 7000",
+      "region": "upm"
+    },
+    {
+      "address": "Faculty of Medicine & Health Science, UPM, 43400 Serdang, Selangor",
+      "id": "medicine",
+      "image": "https://sgs.upm.edu.my/summer-uploads/20240815155654blobid0.jpg",
+      "lat": 2.976612,
+      "lng": 101.717425,
+      "name": "Faculty of Medicine & Health Science",
+      "phone": "+603-9769 7000",
+      "region": "upm"
+    },
+    {
+      "address": "Faculty of Modern Languages and Communication, UPM, 43400 Serdang, Selangor",
+      "id": "languages",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Faculty_of_Modern_Languages_and_Communication%2C_UPM.jpg/1200px-Faculty_of_Modern_Languages_and_Communication%2C_UPM.jpg",
+      "lat": 2.9988309,
+      "lng": 101.714344,
+      "name": "Faculty of Modern Languages and Communication",
+      "phone": "+603-9769 7000",
+      "region": "upm"
+    },
+    {
+      "address": "School of Business and Economics, UPM, 43400 Serdang, Selangor",
+      "id": "business",
+      "image": "https://econ.upm.edu.my/summer-uploads/20220623155542blobid0.png",
+      "lat":  3.0014344,
+      "lng": 101.7062867,
+      "name": "School of Business and Economics",
+      "phone": "+603-9769 7599",
+      "region": "upm"
+    }
+  ],
+  "regions": [
+    {
+      "coords": {
+        "lat": 2.995643,
+        "lng": 101.724823
+      },
+      "id": "upm",
+      "name": "UPM Serdang Campus",
+      "zoom": 15.0
+    }
+  ]
+}
